@@ -44,7 +44,7 @@ a1=a*6;
 }else if(a>500){
 a1=a*7;
 }
-System.out.print("CommerBill amount:"+a1);
+System.out.print("CommercialBill amount:"+a1);
 }
 else{
 System.out.print("Invalid choice");
