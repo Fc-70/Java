@@ -105,7 +105,7 @@ class ArrayStack<T> implements Stack<T> {
 }
 
 
-public class ex4b{
+public class payroll{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Stack<Employee> payrollHistory = new ArrayStack<>(100);  
