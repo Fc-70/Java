@@ -57,7 +57,7 @@ class TextEditor {
     }
 }
 
-public class ex4a {
+public class TextEditor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         TextEditor editor = new TextEditor();
